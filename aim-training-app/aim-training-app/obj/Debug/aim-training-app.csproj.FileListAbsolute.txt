@@ -1,0 +1,11 @@
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\bin\Debug\aim-training-app.exe.config
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\bin\Debug\aim-training-app.exe
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\bin\Debug\aim-training-app.pdb
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\obj\Debug\aim-training-app.csproj.AssemblyReference.cache
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\obj\Debug\aim-training-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\obj\Debug\aim_training_app.Form1.resources
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\obj\Debug\aim_training_app.Properties.Resources.resources
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\obj\Debug\aim-training-app.csproj.GenerateResource.cache
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\obj\Debug\aim-training-app.csproj.CoreCompileInputs.cache
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\obj\Debug\aim-training-app.exe
+C:\Users\alike\source\repos\aim-training-app\aim-training-app\obj\Debug\aim-training-app.pdb
